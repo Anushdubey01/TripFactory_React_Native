@@ -50,7 +50,7 @@ cd android
 - Uniform design for Air India and SpiceJet via a common logo frame
 
 ## Screenshots / Demo
-![UI Screenshot](./assets/media/screenshot.jpg)
+<img src="./assets/media/screenshot.jpg" alt="UI Screenshot" width="500" />
 
 Demo video (download to view):
 `./assets/media/demo.mp4`
